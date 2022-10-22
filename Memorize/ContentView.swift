@@ -14,7 +14,6 @@ struct ContentView: View {
             CardView(isFaceUp: false)
             CardView(isFaceUp: true)
             CardView(isFaceUp: true)
-            CardView(isFaceUp: true)
         }
     }
 }
